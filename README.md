@@ -14,3 +14,5 @@
 
 * #### [基于express.js的路由配置](https://github.com/huangchucai/My-Note-Blog/issues/5)
 
+> vue部分
+* ### [vue基础一](https://github.com/huangchucai/My-Note-Blog/issues/6)
