@@ -10,6 +10,8 @@
 
 * #### [常用的对象和方法总结](https://github.com/huangchucai/My-Note-Blog/issues/12)
 
+* #### [数组去重](https://github.com/huangchucai/My-Note-Blog/issues/13)
+
 > 模块化部分
 
 * #### [express.js学习笔记](https://github.com/huangchucai/My-Note-Blog/issues/2)
