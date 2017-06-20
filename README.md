@@ -8,6 +8,8 @@
 
 * #### [闭包和定时器](https://github.com/huangchucai/My-Note-Blog/issues/4)
 
+* #### [常用的对象和方法总结](https://github.com/huangchucai/My-Note-Blog/issues/12)
+
 > 模块化部分
 
 * #### [express.js学习笔记](https://github.com/huangchucai/My-Note-Blog/issues/2)
@@ -17,6 +19,8 @@
 * #### [webpack2详解](https://github.com/huangchucai/My-Note-Blog/issues/9)
 
 * #### [gulp和webpack对比](https://github.com/huangchucai/My-Note-Blog/issues/10)
+
+* #### [npm基础](https://github.com/huangchucai/My-Note-Blog/issues/11)
 
 
 
