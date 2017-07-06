@@ -20,6 +20,8 @@
 
 * #### [webpack2详解](https://github.com/huangchucai/My-Note-Blog/issues/9)
 
+* #### [webpack2实战css篇](https://github.com/huangchucai/My-Note-Blog/issues/15)
+
 * #### [gulp和webpack对比](https://github.com/huangchucai/My-Note-Blog/issues/10)
 
 * #### [npm基础](https://github.com/huangchucai/My-Note-Blog/issues/11)
