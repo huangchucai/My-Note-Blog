@@ -26,6 +26,7 @@
 
 * #### [npm基础](https://github.com/huangchucai/My-Note-Blog/issues/11)
 
+* #### [模块的导入和导出](https://github.com/huangchucai/My-Note-Blog/issues/16)
 
 
 
