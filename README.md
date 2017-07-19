@@ -38,5 +38,9 @@
 * #### [vue组件化通讯](https://github.com/huangchucai/My-Note-Blog/issues/8)
 
 > css部分
-
 * #### [动态rem](https://github.com/huangchucai/My-Note-Blog/issues/17)
+
+
+### 我的日常工作
+> 七月
+[19日](https://github.com/huangchucai/My-Note-Blog/issues/18)
