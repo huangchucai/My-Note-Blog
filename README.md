@@ -42,5 +42,10 @@
 
 
 ### 我的日常工作
-> 七月
-[19日](https://github.com/huangchucai/My-Note-Blog/issues/18)
+
+===================
+
+**2017年7月**
+
+19日
+
