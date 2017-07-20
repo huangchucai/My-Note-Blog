@@ -37,6 +37,8 @@
 
 * #### [vue组件化通讯](https://github.com/huangchucai/My-Note-Blog/issues/8)
 
+* #### [contenteditable的双向绑定](https://github.com/huangchucai/My-Note-Blog/issues/18)
+
 > css部分
 * #### [动态rem](https://github.com/huangchucai/My-Note-Blog/issues/17)
 
