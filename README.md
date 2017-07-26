@@ -39,6 +39,8 @@
 
 * #### [contenteditable的双向绑定](https://github.com/huangchucai/My-Note-Blog/issues/18)
 
+* #### [vue-router](https://github.com/huangchucai/My-Note-Blog/issues/19)
+
 > css部分
 * #### [动态rem](https://github.com/huangchucai/My-Note-Blog/issues/17)
 
@@ -49,5 +51,5 @@
 
 **2017年7月**
 
-[19日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/19.md) /  [20日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/20.md) /  [21日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/21.md)
+[19日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/19.md) /  [20日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/20.md) /  [21日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/21.md) /  [25日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/25.md) /  [26日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/26.md)
 
