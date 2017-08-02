@@ -26,9 +26,7 @@
 
 * #### [npm基础](https://github.com/huangchucai/My-Note-Blog/issues/11)
 
-* #### [模块的导入和导出](https://github.com/huangchucai/My-Note-Blog/issues/16)
-
-
+* #### [模块化发展史](https://github.com/huangchucai/My-Note-Blog/issues/22)
 
 > vue部分
 * #### [vue基础一](https://github.com/huangchucai/My-Note-Blog/issues/6)
@@ -46,6 +44,8 @@
 
 > HTTP服务器部分
 * #### [动态rem](https://github.com/huangchucai/My-Note-Blog/issues/20)
+
+* #### [静态服务器一](https://github.com/huangchucai/My-Note-Blog/issues/21)
 
 ### 我的日常工作
 
