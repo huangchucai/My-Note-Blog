@@ -39,6 +39,10 @@
 
 * #### [vue-router](https://github.com/huangchucai/My-Note-Blog/issues/19)
 
+* #### [vue-vuex基础](https://github.com/huangchucai/My-Note-Blog/issues/24)
+
+* #### [vue-vuex核心](https://github.com/huangchucai/My-Note-Blog/issues/25)
+
 > css部分
 * #### [动态rem](https://github.com/huangchucai/My-Note-Blog/issues/17)
 
