@@ -12,6 +12,10 @@
 
 * #### [数组去重](https://github.com/huangchucai/My-Note-Blog/issues/13)
 
+* #### [ES5-This详解](https://github.com/huangchucai/My-Note-Blog/issues/27)
+
+* #### [箭头函数this](https://github.com/huangchucai/My-Note-Blog/issues/26)
+
 > 模块化部分
 
 * #### [express.js学习笔记](https://github.com/huangchucai/My-Note-Blog/issues/2)
