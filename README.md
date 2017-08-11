@@ -37,7 +37,7 @@
 > vue部分
 * #### [vue基础一](https://github.com/huangchucai/My-Note-Blog/issues/6)
 
-* #### [vue基础二](https://github.com/huangchucai/My-Note-Blog/issues/7)
+* #### [vue-cli基础](https://github.com/huangchucai/My-Note-Blog/issues/7)
 
 * #### [vue组件化通讯](https://github.com/huangchucai/My-Note-Blog/issues/8)
 
