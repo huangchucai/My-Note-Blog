@@ -49,6 +49,8 @@
 
 * #### [vue-vuex核心](https://github.com/huangchucai/My-Note-Blog/issues/25)
 
+* #### [vue-cli多页面配置](https://github.com/huangchucai/My-Note-Blog/issues/29)
+
 > css部分
 * #### [动态rem](https://github.com/huangchucai/My-Note-Blog/issues/17)
 
