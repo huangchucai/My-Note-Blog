@@ -16,6 +16,8 @@
 
 * #### [箭头函数this](https://github.com/huangchucai/My-Note-Blog/issues/26)
 
+* #### [箭头函数this](https://github.com/huangchucai/My-Note-Blog/issues/28)
+
 > 模块化部分
 
 * #### [express.js学习笔记](https://github.com/huangchucai/My-Note-Blog/issues/2)
