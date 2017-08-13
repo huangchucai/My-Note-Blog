@@ -57,7 +57,7 @@
 * #### [动态rem](https://github.com/huangchucai/My-Note-Blog/issues/17)
 
 > HTTP服务器部分
-* #### [动态rem](https://github.com/huangchucai/My-Note-Blog/issues/20)
+* #### [HTTP协议总结](https://github.com/huangchucai/My-Note-Blog/issues/20)
 
 * #### [静态服务器一](https://github.com/huangchucai/My-Note-Blog/issues/21)
 
