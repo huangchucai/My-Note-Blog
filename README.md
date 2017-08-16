@@ -53,6 +53,8 @@
 
 * #### [vue异步请求数据和nextTick](https://github.com/huangchucai/My-Note-Blog/issues/30)
 
+* #### [Vue双向绑定](https://github.com/huangchucai/My-Note-Blog/issues/31)
+
 > css部分
 * #### [动态rem](https://github.com/huangchucai/My-Note-Blog/issues/17)
 
