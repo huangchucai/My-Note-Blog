@@ -55,6 +55,8 @@
 
 * #### [Vue双向绑定](https://github.com/huangchucai/My-Note-Blog/issues/31)
 
+* #### [asyncComputed源码解析](https://github.com/huangchucai/My-Note-Blog/issues/32)
+
 > css部分
 * #### [动态rem](https://github.com/huangchucai/My-Note-Blog/issues/17)
 
