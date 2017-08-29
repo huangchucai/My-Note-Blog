@@ -65,6 +65,8 @@
 
 * #### [静态服务器一](https://github.com/huangchucai/My-Note-Blog/issues/21)
 
+* #### [cookie和CSRF攻防](https://github.com/huangchucai/My-Note-Blog/issues/34)
+
 ### 我的日常工作
 
 ===================
