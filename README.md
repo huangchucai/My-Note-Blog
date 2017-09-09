@@ -34,6 +34,8 @@
 
 * #### [模块化发展史](https://github.com/huangchucai/My-Note-Blog/issues/22)
 
+* #### [文件压缩/js语法检查/css加前缀/babel转换实战](https://github.com/huangchucai/My-Note-Blog/issues/35)
+
 > vue部分
 * #### [vue基础一](https://github.com/huangchucai/My-Note-Blog/issues/6)
 
