@@ -69,6 +69,10 @@
 
 * #### [cookie和CSRF攻防](https://github.com/huangchucai/My-Note-Blog/issues/34)
 
+> 刷题系列
+
+* #### [js刷题和思维练习](https://github.com/huangchucai/My-Note-Blog/issues/36)
+
 ### 我的日常工作
 
 ===================
