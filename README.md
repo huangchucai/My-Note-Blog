@@ -16,7 +16,9 @@
 
 * #### [箭头函数this](https://github.com/huangchucai/My-Note-Blog/issues/26)
 
-* #### [箭头函数this](https://github.com/huangchucai/My-Note-Blog/issues/28)
+* #### [常用的方法实战](https://github.com/huangchucai/My-Note-Blog/issues/28)
+
+* #### [bind解析和箭头函数的This](https://github.com/huangchucai/My-Note-Blog/issues/37)
 
 > 模块化部分
 
