@@ -75,6 +75,10 @@
 
 * #### [js刷题和思维练习](https://github.com/huangchucai/My-Note-Blog/issues/36)
 
+> 源码系列
+
+* #### [underscore.js源码解析](https://github.com/huangchucai/My-Note-Blog/issues/38)
+
 ### 我的日常工作
 
 ===================
