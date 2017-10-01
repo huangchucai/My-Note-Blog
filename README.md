@@ -20,6 +20,9 @@
 
 * #### [bind解析和箭头函数的This](https://github.com/huangchucai/My-Note-Blog/issues/37)
 
+* #### [图片的上传和压缩](https://github.com/huangchucai/My-Note-Blog/issues/39)
+
+
 > 模块化部分
 
 * #### [express.js学习笔记](https://github.com/huangchucai/My-Note-Blog/issues/2)
