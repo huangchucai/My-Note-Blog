@@ -41,6 +41,10 @@
 
 * #### [文件压缩/js语法检查/css加前缀/babel转换实战](https://github.com/huangchucai/My-Note-Blog/issues/35)
 
+* #### [webpack文档高级配置](https://github.com/huangchucai/My-Note-Blog/issues/40)
+
+
+
 > vue部分
 * #### [vue基础一](https://github.com/huangchucai/My-Note-Blog/issues/6)
 
