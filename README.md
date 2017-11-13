@@ -76,6 +76,11 @@
 
 * #### [asyncComputed源码解析](https://github.com/huangchucai/My-Note-Blog/issues/32)
 
+* #### [组件化内部逻辑详解](https://github.com/huangchucai/My-Note-Blog/issues/42)
+
+
+
+
 > css部分
 * #### [动态rem](https://github.com/huangchucai/My-Note-Blog/issues/17)
 
