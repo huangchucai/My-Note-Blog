@@ -43,6 +43,10 @@
 
 * #### [webpack文档高级配置](https://github.com/huangchucai/My-Note-Blog/issues/40)
 
+> 通讯部分
+
+* #### [OAuth2.0通讯](https://github.com/huangchucai/My-Note-Blog/issues/41)
+
 
 
 > vue部分
