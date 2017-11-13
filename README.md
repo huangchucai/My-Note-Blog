@@ -1,5 +1,9 @@
 ### 我的Blog
 
+更多blog可以查看我的简书 [地址直通车](http://www.jianshu.com/u/18d733dd8c26)
+
+
+#### 精华部分
 > js部分
 
 * #### [判定和相等处处不同](https://github.com/huangchucai/My-Note-Blog/issues/1)
