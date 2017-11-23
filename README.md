@@ -47,6 +47,8 @@
 
 * #### [webpack文档高级配置](https://github.com/huangchucai/My-Note-Blog/issues/40)
 
+* #### [event loop](https://github.com/huangchucai/My-Note-Blog/issues/44)
+
 > 通讯部分
 
 * #### [OAuth2.0通讯](https://github.com/huangchucai/My-Note-Blog/issues/41)
