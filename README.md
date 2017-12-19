@@ -27,6 +27,8 @@
 * #### [图片的上传和压缩](https://github.com/huangchucai/My-Note-Blog/issues/39)
 
 
+
+
 > 模块化部分
 
 * #### [express.js学习笔记](https://github.com/huangchucai/My-Note-Blog/issues/2)
@@ -53,6 +55,7 @@
 
 * #### [OAuth2.0通讯](https://github.com/huangchucai/My-Note-Blog/issues/41)
 
+* #### [正向代理和反向代理](https://github.com/huangchucai/My-Note-Blog/issues/45)
 
 
 > vue部分
