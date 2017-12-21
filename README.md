@@ -51,11 +51,13 @@
 
 * #### [event loop](https://github.com/huangchucai/My-Note-Blog/issues/44)
 
-> 通讯部分
+> 通讯部分和代码管理
 
 * #### [OAuth2.0通讯](https://github.com/huangchucai/My-Note-Blog/issues/41)
 
 * #### [正向代理和反向代理](https://github.com/huangchucai/My-Note-Blog/issues/45)
+
+* #### [git的高级小知识](https://github.com/huangchucai/My-Note-Blog/issues/46)
 
 
 > vue部分
