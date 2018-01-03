@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    .container {
+      background-color: black;
+      color: white;
+      padding: 100px 0;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container"></div>
+  <button class="btn">点击取消</button>
+
+  <script>
+    let count = 1
+    const container = document.querySelector('.container');
+    const btn = document.querySelector('.btn')
+    function getUserAction(...args) {
+      container.innerHTML = count++;
+      return 'getUserAction'
+    };
+    function debounce(func, wait, immediately) {
+      let timer
+      
+      let debounced =  function (...args) {
+        let result
+        // 清除闹钟后，闹钟还是存在的
+        if (timer) clearTimeout(timer)
+        if (immediately) {
+          let called = !timer
+          timer = setTimeout(() => {
+            timer = null
+          }, wait)
+          if (called) {
+            result = func.apply(this,args)
+          }
+        } else {
+          timer = setTimeout(() => {
+            func.apply(this, args)
+          }, wait)
+        }
+        return result
+      }
+      debounced.cancel = function() {
+        clearTimeout(timer)
+        timer = null
+      }
+      return debounced
+    }
+    let action = debounce(getUserAction, 100000, true)
+    container.addEventListener('mousemove', action)
+    btn.addEventListener('click', action.cancel)
+  </script>
+</body>
+
+</html>
