@@ -217,3 +217,9 @@ btn.addEventListener('click', action.cancel)
 ```
 
 恭喜你，完成了一个防抖的封装。
+
+---
+
+###### 源码地址
+
+[点击这里](https://github.com/huangchucai/My-Note-Blog/blob/master/2018/%E9%98%B2%E6%8A%96.html)

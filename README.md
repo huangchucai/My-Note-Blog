@@ -106,6 +106,8 @@
 
 * #### [underscore.js源码解析](https://github.com/huangchucai/My-Note-Blog/issues/38)
 
+* #### [underscore 防抖封装](https://github.com/huangchucai/My-Note-Blog/issues/47)
+
 ### 我的日常工作
 
 ===================
