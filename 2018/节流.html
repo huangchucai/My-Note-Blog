@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    .container {
+      height: 300px;
+      background: #abcdef;
+      line-height: 300px;
+      text-align: center;
+      color: red;
+      font-size: 30px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container"></div>
+  <button class="btn">点击取消</button>
+
+  <script>
+    // 让我们来看第一种方法：使用时间戳，当触发事件的时候，我们取出当前的时间戳，然后减去之前的时间戳(最一开始值设为 0 )，如果大于设置的时间周期，就执行函数，然后更新时间戳为当前的时间戳，如果小于，就不执行。
+    const container = document.querySelector('.container')
+    function throttle(func, wait) {
+      let context
+      let previous = 0
+      console.log(previous)
+      return function () {
+        let date = +new Date()
+        if ((date - previous) > wait) {
+          func.apply(context, [...arguments])
+          previous = date
+        }
+      }
+    }
+    // 使用定时器节流，当定时器存在的时候，不执行函数，等到setTimeout执行的时候，在清空定时器
+    function throttle2(func, wait) {
+      let timer
+      return function () {
+        if (!timer) {
+          timer = setTimeout(() => {
+            timer = null
+            func.apply(this, [...arguments])
+          }, wait)
+        }
+      }
+    }
+
+    function throttle6(func, wait) {
+      var timeout, context, args, result;
+      var previous = 0;
+
+      var later = function () {
+        previous = +new Date();
+        timeout = null;
+        func.apply(context, args)
+      };
+
+      var throttled = function () {
+        var now = +new Date();
+        //下次触发 func 剩余的时间
+        var remaining = wait - (now - previous);
+        context = this;
+        args = arguments;
+        // 如果没有剩余的时间了或者你改了系统时间
+        if (remaining <= 0 || remaining > wait) {
+          if (timeout) {
+            clearTimeout(timeout);
+            timeout = null;
+          }
+          previous = now;
+          func.apply(context, args);
+        } else if (!timeout) {
+          timeout = setTimeout(later, remaining);
+        }
+      };
+      return throttled;
+    }
+
+    function throttle3(func, wait) {
+      let timer
+      let previous = 0
+
+      return function () {
+        let date = +new Date()
+        let remain = wait - (date - previous)
+        if (remain <= 0) {
+          console.log(`remain: ${remain}`)
+          if (timer) {
+            clearTimeout(timer)
+            timeout = null;
+          }
+          previous = date
+          func.apply(this, [...arguments])
+        } else if (!timer) {
+          console.log(remain)
+          timer = setTimeout(() => {
+            previous = +new Date()
+            timer = null
+            func.apply(this, [...arguments])
+          }, remain)
+        }
+      }
+    }
+
+
+    function throttle4(func, wait, options = { leading: false, trailing: false }) {
+      let timer = null, previous = 0;
+      function later() {
+        timer = null
+        previous = options.leading ? +new Date() : 0
+        func.apply(this, [...arguments])
+      }
+      return function () {
+        let date = +new Date()
+        if (!previous && options.leading === false) previous = date
+        // 距离函数执行的时间
+        let remain = wait - (date - previous)
+        // 刚开始的时候执行
+        if (remain <= 0) {
+          if (timer) {
+            clearTimeout(timer)
+            timeout = null;
+          }
+          previous = date
+          func.apply(this, [...arguments])
+        } else if (!timer && options.trailing !== false) {
+          // 之后都会执行定时器里面的调用
+          timer = setTimeout(later, remain)
+        }
+      }
+    }
+
+    let count = 1
+    function getUserAction() {
+      container.innerHTML = count++;
+      return 'getUserAction'
+    }
+
+    container.addEventListener('mousemove', throttle4(getUserAction, 2000))
+// container.onmousemove = throttle(getUserAction, 3000);
+  </script>
+</body>
+
+</html>
