@@ -208,4 +208,4 @@ function throttle(func, wait, options = {leading: false,trailing: false}) {
 
 ###### 源码地址
 
-[点击这里](https://github.com/huangchucai/My-Note-Blog/blob/master/2018/%E9%98%B2%E6%8A%96.html)
+[点击这里](https://github.com/huangchucai/My-Note-Blog/blob/master/2018/%E8%8A%82%E6%B5%81.html)
