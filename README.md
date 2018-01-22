@@ -108,6 +108,8 @@
 
 * #### [underscore 防抖封装](https://github.com/huangchucai/My-Note-Blog/issues/47)
 
+* #### [underscore 节流封装](https://github.com/huangchucai/My-Note-Blog/blob/master/2018/underscore%E4%B8%93%E9%A2%98%E4%BB%A3%E7%A0%81/underscore.js%20%E8%8A%82%E6%B5%81%E8%AE%BE%E7%BD%AE.md)
+
 ### 我的日常工作
 
 ===================
