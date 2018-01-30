@@ -110,17 +110,6 @@
 
 * #### [underscore 节流封装](https://github.com/huangchucai/My-Note-Blog/blob/master/2018/underscore%E4%B8%93%E9%A2%98%E4%BB%A3%E7%A0%81/underscore.js%20%E8%8A%82%E6%B5%81%E8%AE%BE%E7%BD%AE.md)
 
-### 我的日常工作
-
-===================
-
-**2017年7月**
-
-[19日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/19.md) /  [20日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/20.md) /  [21日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/21.md) /  [25日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/25.md) /  [26日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/26.md)
-
-**2017年8**月****
-
-**[vue源码代码块杂记](https://github.com/huangchucai/My-Note-Blog/issues/33)**
 
 ### 项目链接
 * #### [仿qq音乐播放器](http://ustbhuangyi.com/music/#/recommend)
@@ -140,3 +129,15 @@
 * #### [动态css](https://huangchucai.github.io/javascript-30/three-day/)
 * #### [suggestion实现](https://huangchucai.github.io/javascript-30/six-day/)
 
+
+### 我的日常工作
+
+===================
+
+**2017年7月**
+
+[19日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/19.md) /  [20日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/20.md) /  [21日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/21.md) /  [25日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/25.md) /  [26日](https://github.com/huangchucai/My-Note-Blog/blob/master/2017/07/26.md)
+
+**2017年8**月****
+
+**[vue源码代码块杂记](https://github.com/huangchucai/My-Note-Blog/issues/33)**
