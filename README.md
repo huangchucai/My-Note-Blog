@@ -119,12 +119,11 @@
 * #### [手机端Vue重构有赞商城](https://huangchucai.github.io/vue-youzan/dist/) (mock.js数据挂掉)
   * [代码地址](https://github.com/huangchucai/vue-youzan)
 
-  
+* #### [Vue在线简历](https://huangchucai.github.io/vue-resume/dist/#/)  
 * #### [瀑布流新闻加载](http://huangchucai.top/%E8%BF%9B%E9%98%B618/%E7%80%91%E5%B8%83%E6%B5%81%E6%96%B0%E9%97%BB%E5%8A%A0%E8%BD%BD.html)
 * #### [图片木桶布局](http://huangchucai.top/%E8%BF%9B%E9%98%B618/%E5%9B%BE%E7%89%87%E6%9C%A8%E6%A1%B6%E5%B8%83%E5%B1%80.html)
 * #### [Vue轮子组件进行中](https://huangchucai.github.io/Vue-component/dist/)
 * #### [pc端便利贴](https://github.com/huangchucai/express-note-try)  （服务器挂了，本地启动服务器）
-* #### [Vue在线简历](https://huangchucai.github.io/vue-resume/dist/#/)
 * #### [websocket聊天室](https://github.com/huangchucai/websocket-demo) （服务器挂了，本地启动服务器）
 * #### [音乐播放demo](https://huangchucai.github.io/javascript-30/one-day/)
 * #### [canvas时钟](https://huangchucai.github.io/javascript-30/two-day/)
