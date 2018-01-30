@@ -112,11 +112,11 @@
 
 
 ### 项目链接
-* #### [仿qq音乐播放器](http://ustbhuangyi.com/music/#/recommend)
+* #### [手机端仿qq音乐播放器](http://ustbhuangyi.com/music/#/recommend)
   * [代码地址](https://github.com/huangchucai/vue-app)
-* #### [Vue饿了么外卖](http://vuejssellapp.t.imooc.io/#!/)
+* #### [手机端Vue饿了么外卖](http://vuejssellapp.t.imooc.io/#!/)
   * [代码地址](https://github.com/huangchucai/ele-sell)
-* #### [Vue重构有赞商城](https://huangchucai.github.io/vue-youzan/dist/) (mock.js数据挂掉)
+* #### [手机端Vue重构有赞商城](https://huangchucai.github.io/vue-youzan/dist/) (mock.js数据挂掉)
   * [代码地址](https://github.com/huangchucai/vue-youzan)
 
   
