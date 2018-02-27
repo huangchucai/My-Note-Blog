@@ -110,6 +110,8 @@
 
 * #### [underscore 节流封装](https://github.com/huangchucai/My-Note-Blog/blob/master/2018/underscore%E4%B8%93%E9%A2%98%E4%BB%A3%E7%A0%81/underscore.js%20%E8%8A%82%E6%B5%81%E8%AE%BE%E7%BD%AE.md)
 
+* #### [JavaScript类型判定(上)](https://github.com/huangchucai/My-Note-Blog/blob/master/2018/underscore%E4%B8%93%E9%A2%98%E4%BB%A3%E7%A0%81/JavaScript%E7%B1%BB%E5%9E%8B%E5%88%A4%E5%AE%9A(%E4%B8%8A).md)
+
 
 ### 项目链接
 * #### [手机端仿qq音乐播放器](http://ustbhuangyi.com/music/#/recommend)
