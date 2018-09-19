@@ -8,7 +8,7 @@
    源码地址  [come come here](https://github.com/huangchucai/MVVM-)
 
 * [**git rebase图解**](https://github.com/huangchucai/My-Note-Blog/blob/master/2018/webstorm%E7%9A%84git%20rebase%20%E6%93%8D%E4%BD%9C.md)
-* #### [nginx学习一](https://github.com/huangchucai/My-Note-Blog/issues/50)   [nginx学习二](https://github.com/huangchucai/My-Note-Blog/issues/51) 
+* #### [nginx学习一](https://github.com/huangchucai/My-Note-Blog/issues/50) //  [nginx学习二](https://github.com/huangchucai/My-Note-Blog/issues/51) 
 #### 算法
 [点击链接跳转](https://github.com/huangchucai/My-Note-Blog/tree/master/%E7%AE%97%E6%B3%95)
 
