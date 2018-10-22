@@ -11,6 +11,7 @@
 * #### [nginx学习一](https://github.com/huangchucai/My-Note-Blog/issues/50) 
 * #### [nginx学习二](https://github.com/huangchucai/My-Note-Blog/issues/51) 
 * #### [渲染和异步（requestAnimatinFrame和setTimeout)](https://github.com/huangchucai/My-Note-Blog/issues/52)
+* #### [TypeScript(基本类型和接口)](https://github.com/huangchucai/My-Note-Blog/issues/53) 
 #### 算法
 [点击链接跳转](https://github.com/huangchucai/My-Note-Blog/tree/master/%E7%AE%97%E6%B3%95)
 
