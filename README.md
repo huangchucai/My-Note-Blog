@@ -1,5 +1,4 @@
 ## 我的Blog
-[bg](https://github.com/huangchucai/My-Note-Blog/blob/master/bg.jpeg)
 更多blog可以查看我的简书 [地址直通车](http://www.jianshu.com/u/18d733dd8c26)
 ### 后端（18年12月10日开始）
 ###### [点击跳转链接](https://github.com/huangchucai/BEE-blog)
@@ -161,3 +160,6 @@
 **2017年8**月****
 
 **[vue源码代码块杂记](https://github.com/huangchucai/My-Note-Blog/issues/33)**
+
+
+![bg](https://github.com/huangchucai/My-Note-Blog/blob/master/bg.jpeg)
