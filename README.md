@@ -8,7 +8,7 @@
 * #### [Vue的MVVM手撸](https://github.com/huangchucai/MVVM-/blob/master/README.md)
    源码地址  [come come here](https://github.com/huangchucai/MVVM-)
 
-* [**git rebase图解**](https://github.com/huangchucai/My-Note-Blog/blob/master/2018/webstorm%E7%9A%84git%20rebase%20%E6%93%8D%E4%BD%9C.md)
+* [**git rebase图解**](https://github.com/huangchucai/My-Note-Blog/issues/54)
 * #### [nginx学习一](https://github.com/huangchucai/My-Note-Blog/issues/50) 
 * #### [nginx学习二](https://github.com/huangchucai/My-Note-Blog/issues/51) 
 * #### [渲染和异步（requestAnimatinFrame和setTimeout)](https://github.com/huangchucai/My-Note-Blog/issues/52)
