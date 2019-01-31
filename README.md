@@ -1,5 +1,4 @@
 ## 我的Blog
-
 更多blog可以查看我的简书 [地址直通车](http://www.jianshu.com/u/18d733dd8c26)
 ### 后端（18年12月10日开始）
 ###### [点击跳转链接](https://github.com/huangchucai/BEE-blog)
@@ -9,7 +8,7 @@
 * #### [Vue的MVVM手撸](https://github.com/huangchucai/MVVM-/blob/master/README.md)
    源码地址  [come come here](https://github.com/huangchucai/MVVM-)
 
-* [**git rebase图解**](https://github.com/huangchucai/My-Note-Blog/blob/master/2018/webstorm%E7%9A%84git%20rebase%20%E6%93%8D%E4%BD%9C.md)
+* [**git rebase图解**](https://github.com/huangchucai/My-Note-Blog/issues/54)
 * #### [nginx学习一](https://github.com/huangchucai/My-Note-Blog/issues/50) 
 * #### [nginx学习二](https://github.com/huangchucai/My-Note-Blog/issues/51) 
 * #### [渲染和异步（requestAnimatinFrame和setTimeout)](https://github.com/huangchucai/My-Note-Blog/issues/52)
@@ -161,3 +160,6 @@
 **2017年8**月****
 
 **[vue源码代码块杂记](https://github.com/huangchucai/My-Note-Blog/issues/33)**
+
+
+![bg](https://github.com/huangchucai/My-Note-Blog/blob/master/bg.jpeg)
