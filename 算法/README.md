@@ -7,3 +7,7 @@
 【2018年5月8号】[add two numbers](https://github.com/huangchucai/My-Note-Blog/blob/master/%E7%AE%97%E6%B3%95/add%20two%20Numbers.md)
 
 【2018年5月9号】[二分法查找](https://github.com/huangchucai/My-Note-Blog/blob/master/%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%B3%95%E6%9F%A5%E6%89%BE.md)
+
+
+#### 数组部分
+【2019年3月22】[双指针的应用](https://github.com/huangchucai/My-Note-Blog/issues/56)
