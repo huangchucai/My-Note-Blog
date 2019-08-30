@@ -13,6 +13,7 @@
 * #### [nginx学习二](https://github.com/huangchucai/My-Note-Blog/issues/51) 
 * #### [渲染和异步（requestAnimatinFrame和setTimeout)](https://github.com/huangchucai/My-Note-Blog/issues/52)
 * #### [TypeScript(基本类型和接口)](https://github.com/huangchucai/My-Note-Blog/issues/53) 
+* #### [JS引擎的工作原理](https://github.com/huangchucai/My-Note-Blog/issues/55)
 #### 算法
 [点击链接跳转](https://github.com/huangchucai/My-Note-Blog/tree/master/%E7%AE%97%E6%B3%95)
 
@@ -41,6 +42,11 @@
 * #### [图片的上传和压缩](https://github.com/huangchucai/My-Note-Blog/issues/39)
 
 
+> 单元测试和集成测试部分
+
+* #### [jest基础语法](https://github.com/huangchucai/My-Note-Blog/issues/59)
+
+* #### [jest-mock](https://github.com/huangchucai/My-Note-Blog/issues/58)
 
 
 > 模块化部分
