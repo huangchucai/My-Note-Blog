@@ -3,6 +3,8 @@
 ### 后端（18年12月10日开始）
 ###### [点击跳转链接](https://github.com/huangchucai/BEE-blog)
 
+#### 前端自动化构建
+* #### [docker+jenkins+nginx自动化构建](https://github.com/huangchucai/My-Note-Blog/issues/60)
 #### 周刊
 由于工作比较忙，所以blog定于每周一更
 * #### [Vue的MVVM手撸](https://github.com/huangchucai/MVVM-/blob/master/README.md)
