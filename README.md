@@ -1,5 +1,6 @@
 ## 我的Blog
-更多blog可以查看我的简书 [地址直通车](http://www.jianshu.com/u/18d733dd8c26)
+最新掘金博客地址 [地址直通车](https://juejin.im/user/5981d7dbf265da3e3c5f79f1/posts)
+
 ### 后端（18年12月10日开始）
 ###### [点击跳转链接](https://github.com/huangchucai/BEE-blog)
 
