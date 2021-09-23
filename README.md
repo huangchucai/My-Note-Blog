@@ -152,4 +152,4 @@
 **[vue源码代码块杂记](https://github.com/huangchucai/My-Note-Blog/issues/33)**
 
 
-![bg](https://github.com/huangchucai/My-Note-Blog/blob/master/bg.jpeg)
+[粤ICP备19158761号](https://beian.miit.gov.cn/)
